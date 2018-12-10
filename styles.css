@@ -7,7 +7,7 @@ img {
     object-position: center;
 }
 
-#unordered li {
+#ordered li {
 color: #bf4080;
 font-family: Comic Sans MS;
 font-size: 20px ;
@@ -16,3 +16,15 @@ font-size: 20px ;
 table, th, td {
     border: 2px solid black;
 }
+strong {
+    color: #660022;
+    
+    }
+
+ h2 {
+     text-align: justify;
+     color: #802000;
+ }   
+ #unordered li {
+     padding-bottom: 10px;
+ }   
