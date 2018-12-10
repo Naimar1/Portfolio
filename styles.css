@@ -1,9 +1,18 @@
+body{
+    margin-left: 30px;
+}
+
 img {
     width: 200px;
     object-position: center;
 }
+
 #unordered li {
 color: #bf4080;
 font-family: Comic Sans MS;
 font-size: 20px ;
+}
+
+table, th, td {
+    border: 2px solid black;
 }
