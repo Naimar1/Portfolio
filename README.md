@@ -1,6 +1,6 @@
 # Portfolio
 #### This is my Portfolio
-### Author
+## Author
 #### **Naima Niyigena**
 ## Description
 This is my portfolio, it tells about me like my names ,background education, working experience and training covered
