@@ -1,10 +1,10 @@
 body{
     margin-left: 30px;
+    background-color:bisque;
 }
 
 img {
-    width: 200px;
-    object-position: center;
+    transform: rotate(630deg);
 }
 
 #ordered li {
