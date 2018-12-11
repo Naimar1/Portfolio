@@ -5,13 +5,13 @@
 ## Description
 This is my portfolio, it tells about me like my names ,background education, working experience and training covered
 ## Setup/Installation Requirements
-* git clone https://naimar1.github.io/Portfolio/
+* link to visit site: https://naimar1.github.io/Portfolio/
 * cd Portfolio
 * code . (if you are using visual studio)
 * atom .
 ## Known Bugs
 Hope that my codes of this page is clear and understandable,
-there is no error, by mistake if ypo find it please contact me for the below address
+there is no error, by mistake if you find it please contact me for the below address
 ## Technologies Used
 I used html and css languages
 ## Support and contact details
