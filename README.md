@@ -5,7 +5,7 @@
 ## Description
 This is my portfolio, it tells about me like my names ,background education, working experience and training covered
 ## Setup/Installation Requirements
-* git clone https://github.com/Naimar1/Portfolio.git
+* git clone https://naimar1.github.io/Portfolio/
 * cd Portfolio
 * code . (if you are using visual studio)
 * atom .
